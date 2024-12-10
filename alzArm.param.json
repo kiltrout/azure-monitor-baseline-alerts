@@ -106,7 +106,7 @@
       "value": ""
     },
     "ALZArmRoleId": {
-      "value": ["Reader"]
+      "value": ["Monitoring Reader"]
     },
     "ALZEventHubResourceId": {
       "value": []
